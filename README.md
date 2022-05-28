@@ -4,6 +4,7 @@
 - 🌱 Estudante de Engenharia Mecânica e Python...
 - 😄 Pronouns: Ele/Dele
 - Courses in progress - Big data , Python e Data Enginer->
+- AWS - Cloud Computing
 
 
 <div align="left">
