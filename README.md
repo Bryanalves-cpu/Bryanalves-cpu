@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://github.com/Bryanalves-cpu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryanalves-cpu&show_icons=true&theme=foreste&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryanalves-cpu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   </div>
   
   <div style="display: inline_block"><br>
