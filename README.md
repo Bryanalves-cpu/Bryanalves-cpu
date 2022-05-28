@@ -1,6 +1,6 @@
 ### Hi , i'm Bryan alves
 
-- 🔭 Trabalho em Engenharia de Processos 
+- 🔭 Trabalho em Engenharia de Processos.. 
 - 🌱 Estudante de Engenharia Mecânica e Python...
 - 😄 Pronouns: Ele/Dele
 Couses in progress - Big data , Python e Data Enginer->
